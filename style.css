@@ -2,3 +2,10 @@ button {
     color: #F08080;
     font-family: monospace;
 }
+
+.sir-button {
+    background-color: cyan;
+    border-radius: 50%;
+    font-family: fantasy;
+    font-size: xx-large;
+}
